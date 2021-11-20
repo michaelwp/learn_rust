@@ -1,5 +1,5 @@
 # learn_rust
-Don't let your skill rusty !
+[www.rust-lang.org/learn](https://www.rust-lang.org/learn). Don't let your skill rusty !
 
 ---
 ### installation
@@ -11,7 +11,10 @@ Don't let your skill rusty !
 ---
 
 ### What's inside
-1. [hello_world](./1.hello_world)
-2. [hello-world-cargo](./2.hello-world-cargo)
+1. [hello_world](./hello_world)
+2. [hello-world-cargo](./hello-world-cargo)
+3. [variables](./variables)
 
 ---
+
+if you feel helping with this repository,  please show your love by give a star.
