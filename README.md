@@ -18,6 +18,7 @@
 5. [if-else-statement](./if-else-statement)
 6. [infinite-loop](./infinite-loop)
 7. [while-loop](./while-loop)
+8. [for-loop](./for-loop)
 
 ---
 
