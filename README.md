@@ -13,8 +13,9 @@
 ### What's inside
 1. [hello_world](./hello_world)
 2. [hello-world-cargo](./hello-world-cargo)
-3. [variables](./variables-mutability)
-4. [variable-data](./data-types)
+3. [variables-mutability](./variables-mutability)
+4. [data-types](./data-types)
+5. [if-else-statement](./if-else-statement)
 
 ---
 
