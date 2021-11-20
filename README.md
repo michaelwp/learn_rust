@@ -19,6 +19,7 @@
 6. [infinite-loop](./infinite-loop)
 7. [while-loop](./while-loop)
 8. [for-loop](./for-loop)
+9. [enum](./enums)
 
 ---
 
