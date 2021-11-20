@@ -1,4 +1,5 @@
-### variables
+### variables and mutability
+documentation of [variables and mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
 
 by default variable in rust is *immutable*, so to make it *mutable*, you have to add `mut` along with the variable.  
 example : 

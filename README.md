@@ -13,7 +13,8 @@
 ### What's inside
 1. [hello_world](./hello_world)
 2. [hello-world-cargo](./hello-world-cargo)
-3. [variables](./variables)
+3. [variables](./variables-mutability)
+4. [variable-data](./data-types)
 
 ---
 
