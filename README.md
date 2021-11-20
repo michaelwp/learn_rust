@@ -17,6 +17,7 @@
 4. [data-types](./data-types)
 5. [if-else-statement](./if-else-statement)
 6. [infinite-loop](./infinite-loop)
+7. [while-loop](./while-loop)
 
 ---
 
