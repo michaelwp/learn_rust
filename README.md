@@ -16,6 +16,7 @@
 3. [variables-mutability](./variables-mutability)
 4. [data-types](./data-types)
 5. [if-else-statement](./if-else-statement)
+6. [infinite-loop](./infinite-loop)
 
 ---
 
