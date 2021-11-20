@@ -20,6 +20,7 @@
 7. [while-loop](./while-loop)
 8. [for-loop](./for-loop)
 9. [enum](./enums)
+10. [constant](./constant)
 
 ---
 
