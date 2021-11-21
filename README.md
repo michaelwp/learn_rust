@@ -27,7 +27,7 @@
 14. [shadowing](./shadowing)
 15. [References](./references)
 16. [struct](./structs)
-17. [tupple-struct](./tupple-struct)
+17. [tuple-struct](./tuple-struct)
 
 ---
 
