@@ -24,7 +24,8 @@
 11. [tuple](./tuple)
 12. [function](./function)
 13. [code-block](./code-block)
-14. [shadowing](./shadowing)
+14. [shadowing](./shadowing pull)
+15. [References](./references)
 
 ---
 
