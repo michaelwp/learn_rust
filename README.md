@@ -32,6 +32,7 @@
 19. [array](./array)
 20. [impl](./impls)
 21. [string](./strings)
+22. [impl-traits](./impl-traits)
 
 ---
 
