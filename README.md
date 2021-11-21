@@ -26,6 +26,7 @@
 13. [code-block](./code-block)
 14. [shadowing](./shadowing)
 15. [References](./references)
+16. [struct](./structs)
 
 ---
 
