@@ -21,6 +21,7 @@
 8. [for-loop](./for-loop)
 9. [enum](./enums)
 10. [constant](./constant)
+11. [tuple](./tuple)
 
 ---
 
