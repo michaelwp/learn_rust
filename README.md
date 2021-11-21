@@ -33,6 +33,7 @@
 20. [impl](./impls)
 21. [string](./strings)
 22. [impl-traits](./impl-traits)
+23. [vector](./vector)
 
 ---
 
