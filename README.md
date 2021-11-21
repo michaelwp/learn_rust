@@ -29,6 +29,7 @@
 16. [struct](./structs)
 17. [tuple-struct](./tuple-struct)
 18. [pass-by-reference](./pass-by-reference)
+19. [array](./array)
 
 ---
 
